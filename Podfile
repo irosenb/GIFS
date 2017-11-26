@@ -6,5 +6,6 @@ target 'GIFS' do
   use_frameworks!
 
   pod 'SDWebImage/GIF'
+  pod 'Alamofire', '~> 4.5'
 
 end
